@@ -1,6 +1,8 @@
 ### Hi there I am Aung Ko Htet 👋
+`I have over 7 years of experience in Bank and Enterprise networking and infrastructure, specializing in Networking, Next-generation firewall, Storage, and Linux. I'm also actively learning and exploring Cloud-Native tools and other modern technologies for software development.` 
 
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aungkohtet_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aungkohtat)
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
