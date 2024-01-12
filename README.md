@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AungKoHtet☁️!;" />
 </h1>
 
-`I have over 7 years of experience in Bank and Enterprise networking and infrastructure, specializing in Networking, Next-generation firewall, Storage, and Linux. I'm also actively learning and exploring Cloud-Native tools and other modern technologies for software development.` 
+`Passionate about all things cloud...!!!` 
 
 
 
