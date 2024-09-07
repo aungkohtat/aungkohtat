@@ -24,7 +24,7 @@
 
 ### 🔥 My Projects
 
-1. **[Terraform AWS Infrastructure]([https://github.com/your-username/terraform-aws-infrastructure](https://github.com/aungkohtat/hands-on-terraform?tab=readme-ov-file))**
+1. **[Terraform AWS Infrastructure](https://github.com/aungkohtat/hands-on-terraform?tab=readme-ov-file)**
    - Description: Automated AWS infrastructure setup using Terraform.
    - Technologies: Terraform, AWS, Python.
    - Highlights: Reduced deployment time by 50%.
