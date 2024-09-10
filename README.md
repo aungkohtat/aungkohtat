@@ -29,7 +29,7 @@
    - Technologies: Terraform, AWS, Python.
    - Highlights: Reduced deployment time by 50%.
 
-2. **[Vault Secrets Management](https://github.com/your-username/vault-secrets-management)**
+2. **[Vault Secrets Management](https://github.com/aungkohtat/vault-secrets-management/blob/main/README.md)**
    - Description: Securely manage secrets using HashiCorp Vault.
    - Technologies: Vault, Docker, Bash.
    - Highlights: Improved security for sensitive data.
