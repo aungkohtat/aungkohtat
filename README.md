@@ -38,7 +38,8 @@
    
    **Description**: Comprehensive guide and exercises for learning Infrastructure as Code (IaC) using Terraform.
    - Technologies: Terraform, AWS, Azure, GCP.
-     **Highlights**:
+     
+   **Highlights**:
    - Simplified infrastructure management.
    - Automated deployments.
    - Scalable and reusable configurations.
