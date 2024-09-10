@@ -34,12 +34,15 @@
    - Technologies: Vault, Docker, Bash.
    - Highlights: Improved security for sensitive data.
 
-3. **[CI/CD Pipeline with Jenkins](https://github.com/your-username/cicd-pipeline)**
-   - Description: End-to-end CI/CD pipeline setup using Jenkins.
-   - Technologies: Jenkins, Docker, Python.
-   - Highlights: Increased deployment frequency by 30%.
+3. **[Terraform Beginner Bootcamp 2023](https://github.com/aungkohtat/terraform-beginner-bootcamp-2023/blob/main/README.md)**
+   
+   **Description**: Comprehensive guide and exercises for learning Infrastructure as Code (IaC) using Terraform.
+   - Technologies: Terraform, AWS, Azure, GCP.
+     **Highlights**:
+   - Simplified infrastructure management.
+   - Automated deployments.
+   - Scalable and reusable configurations.
 
----
 
 ### 📄 Blog Posts
 
