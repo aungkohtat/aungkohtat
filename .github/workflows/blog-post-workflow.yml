@@ -1,4 +1,5 @@
 name: Latest blog post workflow
+
 on:
   schedule:
     # Runs every hour
@@ -10,8 +11,12 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
           feed_list: "https://medium.com/feed/@alexiscloud"
+
