@@ -1,6 +1,6 @@
 
 # Hi, I'm Aung 👋
-### Cloud Engineer | Cloud Infrastructure Specialist
+### DevOps & Platform Engineer | Cloud Infrastructure Specialist
 
 - 🔭 Currently working on: Terraform configurations and Vault integrations
 - 🌱 Learning: Advanced Kubernetes and microservices architecture
